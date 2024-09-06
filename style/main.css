@@ -74,12 +74,12 @@ nav{
 .nav-actions{
     gap: 0.5rem;
     display:none;
-    animation: navHidden 0.6s ease-in-out;
+    animation: navHidden 0.2s ease;
 }
 
 .nav-actions.nav-expand{
     display: inherit;
-    animation: navExpand 0.6s ease-in-out;
+    animation: navExpand 0.3s ease;
 }
 .nav-actions button{
     padding: 0.5rem 1rem;
