@@ -1,2 +1,2 @@
 # vanilla-navbar
-a simple responsive navbar, create using html, css, and js
+A simple responsive navbar created with HTML, CSS, and JavaScript.
