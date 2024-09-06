@@ -52,7 +52,7 @@ nav{
     list-style: none;
     gap: 0.5rem;
     padding: 1rem 0;
-    animation: navHidden 0.3s ease-in-out;
+    animation: navHidden 0.1s ease-in-out;
 }
 
 .nav-menu.nav-expand{
@@ -74,7 +74,7 @@ nav{
 .nav-actions{
     gap: 0.5rem;
     display:none;
-    animation: navHidden 0.3s ease;
+    animation: navHidden 0.1s ease;
 }
 
 .nav-actions.nav-expand{
